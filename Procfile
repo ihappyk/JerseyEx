@@ -1,1 +1,1 @@
-web: java -jar target/RESTfulExample.war
+web: java -jar target/RESTfulExample-1.0-SNAPSHOT.war
